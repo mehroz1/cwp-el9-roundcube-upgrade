@@ -1,7 +1,7 @@
 # Roundcube Upgrade for Control Web Panel (CWP) on EL9
 
 
-This script is test on EL9 even works with old centos 7 installations but due to PHP limitation (php package bundled with cwp) only 1.4.x can be insatalled on centos 7 and only 1.5.x and 1.6.x works with EL9
+This script is tested on EL9 even works with old centos 7 installations but due to PHP limitation (php package bundled with cwp) only 1.4.x can be insatalled on centos 7 and only 1.5.x and 1.6.x works with EL9
 
 # EL9
 
