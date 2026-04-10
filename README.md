@@ -1,7 +1,12 @@
 # Roundcube Upgrade for Control Web Panel (CWP) on EL9
 
+The purpose of this script is to update your existing roundcube installation.
 
 This script is tested on EL9 even works with old centos 7 installations but due to PHP limitation (php package bundled with cwp) only 1.4.x can be insatalled on centos 7 and only 1.5.x and 1.6.x works with EL9
+
+# Important
+
+Before doing anything  backup your existing roundcube installation which is i guess located at /usr/local/cwpsrv/var/services/roundcube but please verify it bfore proceeding with this script because if you lose roundcube config file then it will be problem.
 
 # EL9
 
