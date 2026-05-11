@@ -6,7 +6,7 @@ This script is tested on EL9 even works with old centos 7 installations but due 
 
 # Important
 
-Before doing anything  backup your existing roundcube installation which is i guess located at /usr/local/cwpsrv/var/services/roundcube but please verify it bfore proceeding with this script because if you lose roundcube config file then it will be problem.
+Before doing anything  backup your existing roundcube installation which is i guess located at /usr/local/cwpsrv/var/services/roundcube but please verify it before proceeding with this script because if you lose roundcube config file then it will be a problem users wont be able to login webmail.
 
 # EL9
 
